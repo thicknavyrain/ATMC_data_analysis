@@ -2,3 +2,4 @@ campaign_data
 campaign_data.zip
 indoor_heat.csv
 outdoor_heat.csv
+merged_temp_hum_with_citywide.csv
